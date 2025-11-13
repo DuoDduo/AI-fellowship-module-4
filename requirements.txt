@@ -1,5 +1,7 @@
 matplotlib
 torch
+torchaudio
+torchvision
 pandas
 numpy
 scikit-learn
